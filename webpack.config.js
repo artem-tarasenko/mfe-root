@@ -48,8 +48,8 @@ module.exports = {
       name: "root",
       filename: "remoteEntry.js",
       remotes: {
-        customersMfe: "customersMfe@http://localhost:3001/remoteEntry.js",
-        reportsMfe: "reportsMfe@http://localhost:3002/remoteEntry.js",
+        customersMfe: "customersMfe@https://main.dqr932o0kqlhl.amplifyapp.com/remoteEntry.js",
+        reportsMfe: "reportsMfe@https://main.dg9bshiut52xv.amplifyapp.com/remoteEntry.js",
       },
       exposes: {
         // "./react": "react",
