@@ -53,13 +53,9 @@ module.exports = {
       },
       exposes: {
         // "./react": "react",
-        // "./react-dom": "react-dom",
-        // "./react-router-dom": "react-router-dom",
-        // "./styled-components": "styled-components",
       },
       shared: {
         // react: {singleton: true},
-        // 'react-dom': {singleton: true},
       }
     }),
   

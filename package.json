@@ -7,17 +7,9 @@
     "serve": "webpack serve --mode development",
     "build": "webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/artem-tarasenko/react-wp5-starter.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/artem-tarasenko/react-wp5-starter/issues"
-  },
-  "homepage": "https://github.com/artem-tarasenko/react-wp5-starter#readme",
   "dependencies": {
     "mini-css-extract-plugin": "^2.4.5",
     "react": "^17.0.1",

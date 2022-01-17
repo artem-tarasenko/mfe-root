@@ -4,7 +4,6 @@ import {
   Navigate,
 } from "react-router-dom";
 
-// import { fakeAuthProvider } from "./fakeAuth";
 import { useAuth } from "./context";
 
 export default function RequireAuth( { children } ) {
